@@ -1,6 +1,7 @@
 <div align="center">
 
-# Data end-to-end 
+# data-engginering-end-to-end-airflow-mysql-for-spotify-data-dashboard-streaming
+
 
 _tools i use_
 
@@ -19,7 +20,15 @@ Python · MySQL · Apache Airflow · Spotify Web API
 </div>
 
 ---
+<div align="center">
 
-https://github.com/user-attachments/assets/c7b84eca-36ec-4e06-930c-d53663a0ddf4
+# web dan penjelasan masih dalam porses deploy
+
+</div>
+
+
+https://github.com/user-attachments/assets/f3771f85-47fb-47c5-a2bb-bdfa24191930
+
+
 
 
