@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spotify-personal-analytics"
+version = "1.0.0"
+description = "Spotify personal analytics pipeline using MySQL and Airflow"
+requires-python = ">=3.11"
+dependencies = [
+    "mysql-connector-python>=9.0,<10",
+    "requests>=2.32,<3",
+    "python-dotenv>=1.0,<2",
+]
+
+[project.scripts]
+spotify-pipeline = "spotify_pipeline.pipeline:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,28 @@
+# Environment / secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Airflow
+airflow_home/
+airflow.db
+*.log
+logs/
+
+# File catatan lokal yang berisi kredensial (jangan di-push)
+cara_run_DAG.txt
+*.local.txt
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
