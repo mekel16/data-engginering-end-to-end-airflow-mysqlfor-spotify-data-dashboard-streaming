@@ -19,3 +19,7 @@ Python · MySQL · Apache Airflow · Spotify Web API
 </div>
 
 ---
+
+https://github.com/user-attachments/assets/c7b84eca-36ec-4e06-930c-d53663a0ddf4
+
+
