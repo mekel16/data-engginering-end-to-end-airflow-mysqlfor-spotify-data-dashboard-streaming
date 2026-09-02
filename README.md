@@ -1,6 +1,6 @@
 <div align="center">
 
-# data-engginering-end-to-end-airflow-mysql-for-spotify-data-dashboard-streaming
+# data engginering end to end airflow mysql for spotify data dashboard streaming
 
 
 _tools i use_
