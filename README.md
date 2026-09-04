@@ -6,9 +6,9 @@
 
 Python · MySQL · Apache Airflow · Spotify Web API
 
-*dashboard dan database still in proses deploy*
-
 </div>
+
+*dashboard dan database still in proses deploy*
 
 <div align="center">
   <!-- Baris 1 -->
