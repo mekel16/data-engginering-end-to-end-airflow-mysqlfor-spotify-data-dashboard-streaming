@@ -772,8 +772,8 @@ Dashboard
 <div align="center">
   
 ### TENGSSSSS
-  
-<img width="640" height="374" alt="Cuplikan layar 2026-09-02 180037" src="https://github.com/user-attachments/assets/4f9836e9-0216-4682-9b2e-9ef7c7d1f16e" />
+
+https://github.com/user-attachments/assets/a08961d7-360c-45c5-97b3-9b2ebb216172
 
 </div>
 
