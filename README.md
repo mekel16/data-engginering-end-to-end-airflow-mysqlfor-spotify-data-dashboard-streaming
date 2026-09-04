@@ -769,10 +769,11 @@ Dashboard
         ↑
    Apache Airflow
 ```
-<div>
+<div align="center">
+  
 ### TENGSSSSS
   
-<img width="1280" height="720" alt="WIN_20260707_11_53_32_Pro" src="https://github.com/user-attachments/assets/d8f9ee03-158c-466f-af00-687db8c497a5" />
+<img width="640" height="374" alt="Cuplikan layar 2026-09-02 180037" src="https://github.com/user-attachments/assets/4f9836e9-0216-4682-9b2e-9ef7c7d1f16e" />
 
 </div>
 
