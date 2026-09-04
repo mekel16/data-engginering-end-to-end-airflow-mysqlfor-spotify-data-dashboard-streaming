@@ -8,8 +8,6 @@ Python · MySQL · Apache Airflow · Spotify Web API
 
 </div>
 
-*dashboard dan database still in proses deploy*
-
 <div align="center">
   <!-- Baris 1 -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -19,6 +17,8 @@ Python · MySQL · Apache Airflow · Spotify Web API
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache-Airflow&logoColor=white" alt="Apache Airflow">
   <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Web API">
 </div>
+
+*dashboard dan database still in proses deploy*
 
 ---
 
