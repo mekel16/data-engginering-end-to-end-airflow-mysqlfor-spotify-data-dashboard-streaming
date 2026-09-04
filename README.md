@@ -22,7 +22,10 @@ Python · MySQL · Apache Airflow · Spotify Web API
 ---
 <div align="center">
 
-# web dan penjelasan masih dalam porses deploy
+## Data dari Spotify-Web API
+
+<img width="428" height="512" alt="Frame 16 (1)" src="https://github.com/user-attachments/assets/5049ab96-2ea8-4ad8-8811-e0b284d0c89f" />
+
 
 </div>
 
